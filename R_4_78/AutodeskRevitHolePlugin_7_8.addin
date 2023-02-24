@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\AutodeskRevitHolePlugin_7_8.dll"</Assembly>
+		<AddInId>044B48F5-F381-4A1F-99D7-6E7A1EC8F3AD</AddInId>
+		<FullClassName>AutodeskRevitHolePlugin_7_8.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Создание отверстий для воздуховодов и труб</Text>
+	</AddIn>
+</RevitAddIns>

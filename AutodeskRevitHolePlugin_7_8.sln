@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutodeskRevitHolePlugin_7_8", "R_4_78\AutodeskRevitHolePlugin_7_8.csproj", "{86FF7F25-14B4-48BF-A5E2-F90141FE054C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86FF7F25-14B4-48BF-A5E2-F90141FE054C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FF7F25-14B4-48BF-A5E2-F90141FE054C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FF7F25-14B4-48BF-A5E2-F90141FE054C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FF7F25-14B4-48BF-A5E2-F90141FE054C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F93CC87-CBC5-4F2C-8AAE-2095C97986A3}
+	EndGlobalSection
+EndGlobal
